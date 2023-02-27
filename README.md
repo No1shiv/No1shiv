@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Shiv-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Shiv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-narayan-rawat-449977267/)](https://www.linkedin.com/in/shiv-narayan-rawat-449977267/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Shiv-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Shiv-green)](https://no1shiv.github.io/shiv_portfolio/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shiv-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
