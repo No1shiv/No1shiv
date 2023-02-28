@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Shiv-red)](https://www.youtube.com/developerfunnel)
 [![Linkedin Badge](https://img.shields.io/badge/-Shiv-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-narayan-rawat-449977267/)](https://www.linkedin.com/in/shiv-narayan-rawat-449977267/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Shiv-green)](https://no1shiv.github.io/shiv_portfolio/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Shiv-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Shiv-yellow)](https://stackoverflow.com/users/21301891/shiv-narayan-rawat)
 
 I'm
 Shiv Narayan Rawat, and I'm from Raipur, Chhattisgarh, India. I wanted to be a "Full Stack Web Developer" and grasp every required skill in web development, from front-end and back-end to database in other words the complete architecture that involves making a website work. I wanted to work in a challenging environment where I would contribute through my knowledge and skills as a professional, gain new skills, and experience, and enhance myself for further prospects. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
