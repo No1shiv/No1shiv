@@ -6,9 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Shiv-yellow)](https://stackoverflow.com/users/21301891/shiv-narayan-rawat)
 
 I'm
-Shiv Narayan Rawat, and I'm from Raipur, Chhattisgarh, India. I wanted to be a "Full Stack Web Developer" and grasp every required skill in web development, from front-end and back-end to database in other words the complete architecture that involves making a website work. I wanted to work in a challenging environment where I would contribute through my knowledge and skills as a professional, gain new skills, and experience, and enhance myself for further prospects. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
-
-
+Shiv Narayan Rawat, and I'm from Raipur, Chhattisgarh, India. I wanted to be a "Full Stack Web Developer" and grasp every required skill in web development, from front-end and back-end to database in other words the complete architecture that involves making a website work. I wanted to work in a challenging environment where I would contribute through my knowledge and skills as a professional, gain new skills, and experience, and enhance myself for further prospects. I have a wide range of skills that include back-end development using open source technologies (NodeJs, ExpressJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive), database(MongoDB, Mysql),
 
 Languages and Tools: 
 
@@ -17,8 +15,7 @@ Languages and Tools:
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-   
+    </a>   
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
     </a>
